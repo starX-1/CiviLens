@@ -1,0 +1,9 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+httpx==0.24.1
+python-dotenv==1.0.0
+python-multipart==0.0.6
+redis==4.6.0    # For caching
+PyPDF2==3.0.1   # For PDF processing
+aiofiles==23.2.1
